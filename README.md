@@ -28,6 +28,7 @@ In this project, we implement an autoencoder with PyTorch to detect anomalies. <
 You can run the "main.py" file to train and see results. In this project, we have different modes to learn the effects of Batchnormalization and input image size on the model. You can choose which mode you want to run when you run the main file. Before you run the model, you need to set the dataset direction in the main file. The sample result of this model is shown in the below picture.
 </p>
 
+<br />
 <p align="center">
 <img src="https://github.com/HosseinPAI/AutoEncoder-Anomaly-Detection-/blob/master/.idea/pics/result.png" alt="Result"/>
 </p>
